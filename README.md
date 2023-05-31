@@ -42,7 +42,7 @@
   <summary>Client</summary>
   <ul>
     <li><a href="/index.html">Html</a></li>
-    <li><a href="/styles.css">Css</a></li>
+    <li><a href="/style.css">Css</a></li>
   </ul>
 </details>
 
@@ -84,7 +84,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
- -using "git clone git@github.com:myaccount/my-project.git"
+ using "git clone git@github.com:myaccount/my-project.git"
 
 
 ### Install
