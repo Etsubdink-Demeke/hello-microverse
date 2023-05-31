@@ -170,7 +170,7 @@ I would like to thank Microverse
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license" href="/LICENSE "></a>
+## 📝 License <a name="license" href="/LICENSE ">LICENSE</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
