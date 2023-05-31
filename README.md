@@ -41,19 +41,12 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Html and Css</a></li>
+    <li><a href="/index.html">Html</a></li>
+    <li><a href="/styles.css">Css</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">None
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">None</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 
@@ -139,7 +132,8 @@ To run the project, execute the following command:
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-Etsubdink Demeke
+ <a href="https://github.com/Etsubdink-Demeke">Etsubdink Demeke<a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,21 +170,7 @@ I would like to thank Microverse
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
-
-MIT License
-
-Copyright (c) 2023 Etsubdink Demeke
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 📝 License <a name="license" href="/LICENSE "></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
