@@ -98,7 +98,7 @@ Install this project with:
 
 To run the project, execute the following command:
 
-  -you can run it in your code editor 
+  You can run it in your code editor 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +170,7 @@ I would like to thank Microverse
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license" href="/LICENSE ">LICENSE</a>
+##  <a name="license" href="/LICENSE ">📝 License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
